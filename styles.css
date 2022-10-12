@@ -1,14 +1,14 @@
-.container {
-    display: flex;
-    flex-direction: column;
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s ease;
 }
 
-.header {
-    width: 60%;
-    height: 100px;
-}
-
-.header>img {
-    width: 100px;
-    height: 100px;
+.logo>img {
+    height: 7rem;
 }
